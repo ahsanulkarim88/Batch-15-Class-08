@@ -1,0 +1,27 @@
+
+
+.heading{
+    background-color: aqua;
+}
+#greetings{
+    background-color: rgb(236, 30, 185);
+}
+#heading-3{
+    background-color: blue;
+}
+#heading-4{
+    background-color: brown;
+}
+p{
+    background-color:yellowgreen;
+}
+
+.box{
+    background-color: forestgreen;
+    height: 200px;
+    width: 200px;
+    border: 3px solid yellow;
+    border-radius: 15px;
+    margin: auto;
+}
+
